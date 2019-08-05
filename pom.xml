@@ -5,7 +5,7 @@
 
     <groupId>org.s1p.demo</groupId>
     <artifactId>spring-boot-admin-k8s</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.62</version>
     <packaging>jar</packaging>
 
     <name>S1P : Spring Boot Admin K8s</name>
